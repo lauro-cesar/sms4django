@@ -1,0 +1,10 @@
+{
+  "name": "sms4django",
+  "name_pretty": "Send SMS using Twillio API",
+  "client_documentation": "https://github.com/lauro-cesar/sms4django",
+  "issue_tracker": "https://github.com/lauro-cesar/sms4django/issues",
+  "release_level": "developement",
+  "language": "python",
+  "repo": "lauro-cesar/sms4django",
+  "distribution_name": "sms4django"
+}
